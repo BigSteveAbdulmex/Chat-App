@@ -1,0 +1,1 @@
+/home/steveabdulmex/Appbase/chat_app/build/app/intermediates/cxx/Debug/736h346f/obj/armeabi-v7a
